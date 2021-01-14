@@ -1,2 +1,3 @@
 # SNTableView
- Make TableView of xib
+
+Make TableView of xib Sample
