@@ -1,4 +1,4 @@
-# SNTableView
+# xib로 TableView 만들기
 
 Make TableView of xib Sample
 
@@ -6,5 +6,5 @@ Make TableView of xib Sample
 
 
 ## 블로그
-[[iOS/Swift] xib로 TableView 만들기](https://sunidev.github.io/ios/make-tableview-of-xib/)
+[[iOS/Swift] xib로 TableView 만들기](https://sunidev.tistory.com/5)
 
